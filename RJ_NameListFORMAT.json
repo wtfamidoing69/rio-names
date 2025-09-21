@@ -43,7 +43,6 @@
   "Voce e do tamanho do se son...",
   "Vamos acordar vamos acorda...",
   "Ms lembre-se: aconteca o q ...",
-  [
   "Beco 31",
   "Beco 33",
   "Beco 35 I",
@@ -77,7 +76,6 @@
   "Beco da Padaria Primus",
   "Beco do Denezinho",
   "Beco do Flamenguista",
-    [
   "Avenida Atlantica",
   "Avenida Vieira Souto",
   "Avenida Delfim Moreira",
@@ -119,7 +117,6 @@
   "Avenida Ayrton Senna",
   "Avenida Pasteur",
   "Rua Sao Francisco Xavier",
-      [
   "Avenida Brasil",
   "Avenida Pastor Martin Luther ...",
   "Avenida Edgard Romero",
@@ -152,7 +149,7 @@
   "Rua Clarimundo de Melo",
   "Rua Emilio Zaluar",
   "Rua Honorio",
-          "Belmonte",
+  "Belmonte",
   "Botequim Informal",
   "Chico & Alaide",
   "Bar d'Hotel",
@@ -185,7 +182,7 @@
   "Nosso",
   "Quartinho Bar",
   "Lord Jim Pub",
-          "Rio Scenarium",
+  "Rio Scenarium",
   "Bar Bukowski",
   "Espaço Hall",
   "Kalabria Club",
@@ -218,7 +215,6 @@
   "Meza Bar",
   "Palaphita Kitch",
   "Astor Bar",
-        [
   "Boate Florida",
   "Cafe 400",
   "Centro de Lazer MV30",
@@ -247,7 +243,7 @@
   "Termas 117",
   "Termas Aeroporto",
   "Termas Cachoeira",
-            "Hotel Paraguai",
+  "Hotel Paraguai",
   "Hotel Alameda",
   "Hotel Casa Blanca",
   "Hotel Encontros",
